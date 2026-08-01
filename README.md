@@ -88,11 +88,11 @@ Network      →  Bridged adapter (real network access)
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [cybersecurity-learning-notes](#) | Phase by phase study notes and cheat sheets | 🔄 Active |
-| [home-network-recon](#) | Home network reconnaissance report and findings | ✅ Done |
-| [linux-cli-practice](#) | CLI exercises, challenges, and command references | 🔄 Active |
-| [python-security-tools](#) | Security tools built with Python (Phase 4) | ⏳ Coming Soon |
-| [ctf-writeups](#) | CTF challenge write-ups and solutions | ⏳ Coming Soon |
+| [cybersecurity-learning-notes](https://github.com/Nemugui/cybersecurity-learning-notes) | Phase by phase study notes and cheat sheets | 🔄 Active |
+| [home-network-recon](https://github.com/Nemugui/home-network-recon) | Home network reconnaissance report and findings | ✅ Done |
+| [linux-cli-practice](https://github.com/Nemugui/linux-cli-practice) | CLI exercises, challenges, and command references | 🔄 Active |
+| [python-security-tools](https://github.com/Nemugui/python-security-tools) | Security tools built with Python (Phase 4) | ⏳ Coming Soon |
+| [ctf-writeups](https://github.com/Nemugui/ctf-writeups) | CTF challenge write-ups and solutions | ⏳ Coming Soon |
 
 ---
 
