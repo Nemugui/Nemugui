@@ -28,8 +28,8 @@ Long term   →  Work as a professional Penetration Tester
 | Phase | Topic | Status |
 |-------|-------|--------|
 | Phase 1 | Computer Fundamentals | ✅ Complete |
-| Phase 2 | Networking | 🔄 In Progress |
-| Phase 3 | Linux | ⏳ Upcoming |
+| Phase 2 | Networking | ✅ Complete |
+| Phase 3 | Linux | 🔄 In Progress |
 | Phase 4 | Python for Security | ⏳ Upcoming |
 | Phase 5 | Web Technologies | ⏳ Upcoming |
 | Phase 6 | Cybersecurity Fundamentals | ⏳ Upcoming |
