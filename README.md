@@ -107,7 +107,7 @@ As part of Phase 2 networking practice, I conducted a full reconnaissance of my 
 - Analyzed DNS performance: Cloudflare (11ms) vs Google (55ms) vs ISP (63ms)
 - Performed reverse DNS lookups revealing Google's Manila/Tokyo datacenter infrastructure
 
-📄 [Full Report →](home-network-recon/report.md)
+📄 [Full Report →](https://github.com/Nemugui/Home-network-reconnaissance/blob/main/Report.md)
 
 ---
 
