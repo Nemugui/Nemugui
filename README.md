@@ -128,12 +128,6 @@ As part of Phase 2 networking practice, I conducted a full reconnaissance of my 
 
 ---
 
-## 📊 GitHub Stats
-
-![Nemugui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemugui&show_icons=true&theme=dark&cache_seconds=1800)
-
----
-
 ## 📬 Connect
 
 > I'm always open to connecting with fellow cybersecurity learners and professionals.
