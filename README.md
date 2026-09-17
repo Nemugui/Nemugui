@@ -23,12 +23,15 @@ Long term   →  Work as a professional Penetration Tester
 
 ---
 
-## Learning Roadmap Progress
+## 📍 Learning Roadmap Progress
 
 | Phase | Topic | Status |
 |-------|-------|--------|
 | Phase 1 | Computer Fundamentals | ✅ Complete |
 | Phase 2 | Networking | ✅ Complete |
+| Nmap Mastery | Week 1 — Scan types, NSE, Output formats | ✅ Complete |
+| Wireshark Mastery | Week 2 — tshark, GUI, Malware pcap analysis | ✅ Complete |
+| Combined Practice | Week 3 — nmap + Wireshark + Full Report | ✅ Complete |
 | Phase 3 | Linux | 🔄 In Progress |
 | Phase 4 | Python for Security | ⏳ Upcoming |
 | Phase 5 | Web Technologies | ⏳ Upcoming |
@@ -47,11 +50,22 @@ Long term   →  Work as a professional Penetration Tester
 ## 🛠️ Skills
 
 ### Currently Learning
-- **Linux CLI** — navigation, file manipulation, command chaining, piping
-- **Network Reconnaissance** — nmap scanning, service detection, host discovery
-- **DNS Analysis** — dig, nslookup, reverse lookups, record types
-- **Network Fundamentals** — IP addressing, subnetting, DHCP, NAT, OSI model
+- **Phase 3 Linux** — deep file system, permissions,
+  bash scripting, cron jobs, SSH, log analysis
 
+### Completed Skills
+- **Nmap** — all scan types, NSE scripts, output formats,
+  real network reconnaissance
+- **Wireshark/tshark** — packet capture, traffic analysis,
+  malware pcap investigation, TCP stream analysis
+- **Malware Analysis** — analyzed Dridex and Hancitor
+  infections, IOC extraction, VirusTotal investigation
+- **Network Security Assessment** — full home network audit,
+  14 devices mapped, vulnerabilities documented
+- **Linux CLI** — navigation, file ops, piping,
+  chaining, wildcards, process management
+- **Network Fundamentals** — OSI model, TCP/IP, DNS,
+  DHCP, NAT, subnetting, protocols, ports
 ### Tools I've Used
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004088?style=flat&logoColor=white)
@@ -125,6 +139,11 @@ As part of Phase 2 networking practice, I conducted a full reconnaissance of my 
 ## 🌐 Platforms
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+- ✅ Pre-Security path — complete
+- ✅ Nmap room — complete
+- ✅ Wireshark room — complete
+- 🔄 Jr Penetration Tester path — upcoming
 
 ---
 
