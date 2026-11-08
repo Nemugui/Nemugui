@@ -137,7 +137,7 @@ As part of Phase 2 networking practice, I conducted a full reconnaissance of my 
 
 **Verified Credential:**
 
-[![Cisco Verified](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049fd9?style=flat&logo=cisco&logoColor=white)](#)
+![Cisco Certificate](https://github.com/Nemugui/cybersecurity-learning-notes/blob/main/certificates/Cisco_Intro_to_Cybersecurity_Certificate.png?raw=true)
 
 > 🎓 Cisco Networking Academy — Introduction to Cybersecurity
 > Issued: November 8, 2026 | Verified via
