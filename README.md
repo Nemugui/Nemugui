@@ -125,14 +125,22 @@ As part of Phase 2 networking practice, I conducted a full reconnaissance of my 
 
 ---
 
-## 📜 Certifications (In Progress)
+## 📜 Certifications
 
-| Certification | Status | Target Date |
-|---------------|--------|-------------|
-| Google Cybersecurity Certificate | 🔄 Studying | 2026 |
+| Certification | Status | Date |
+|---------------|--------|------|
+| Cisco Introduction to Cybersecurity | ✅ Completed | Nov 8, 2026 |
+| Google Cybersecurity Certificate | 🔄 In Progress | Started Nov 2026 |
 | CompTIA Security+ | ⏳ Planned | 2026-2027 |
 | eJPT | ⏳ Planned | 2027 |
 | PNPT | ⏳ Planned | 2027 |
+
+**Verified Credential:**
+
+[![Cisco Verified](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049fd9?style=flat&logo=cisco&logoColor=white)](#)
+
+> 🎓 Cisco Networking Academy — Introduction to Cybersecurity
+> Issued: November 8, 2026 | Verified via
 
 ---
 
